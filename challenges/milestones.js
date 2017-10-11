@@ -1,3 +1,4 @@
+// Banking concept
 const WITHDRAWAL_CHARGES = 35;
 const TAX = 16/100;
 let ACCOUNT_BALANCE = 30000;
